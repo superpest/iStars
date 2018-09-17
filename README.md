@@ -1,1 +1,74 @@
 # collections
+
+## jQuery Plugin
+
+- [jquery-color](https://github.com/jquery/jquery-color) 
+- [jquery.fileDownload](https://github.com/johnculviner/jquery.fileDownload)
+- [jquery-pjax](https://github.com/defunkt/jquery-pjax)
+- [jquery-form](https://jquery-form.github.io/form/)
+- [Boxer](https://github.com/FormstoneClassic/Boxer)
+- [bootstrap-slider](https://github.com/seiyria/bootstrap-slider)
+- [jquery.spinner](https://github.com/vsn4ik/jquery.spinner)
+- [jquery.hotkeys](https://github.com/tzuryby/jquery.hotkeys)
+- [jquery.appear](https://github.com/bas2k/jquery.appear)
+- [bootstrap-paginator](https://github.com/lyonlai/bootstrap-paginator)
+- [bootstrap-datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker)
+- [jquery.event.swipe](https://github.com/stephband/jquery.event.swipe)
+- [blockui](https://github.com/malsup/blockui)
+- [jquery_pagination](https://github.com/gbirke/jquery_pagination)
+- [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
+- [icheck](https://github.com/fronteed/icheck)
+- [jquery-validation](https://github.com/jquery-validation/jquery-validation)
+- [single-page-nav](https://github.com/ChrisWojcik/single-page-nav)
+- [FlexSlider](https://github.com/woocommerce/FlexSlider)
+- [lazyload](https://github.com/jieyou/lazyload)
+- [jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu)
+- [jquery-backstretch](https://github.com/jquery-backstretch/jquery-backstretch)
+- [jquery.jsonrpcclient.js](https://github.com/Textalk/jquery.jsonrpcclient.js)
+- [Jcrop](https://github.com/tapmodo/Jcrop)
+- [jstree](https://github.com/vakata/jstree)
+
+
+## Css Lib / Shim / Util
+- [background-size-polyfill](https://github.com/louisremi/background-size-polyfill)
+- [nec](https://github.com/NetEase/nec)
+
+## JavaScript Lib / Shim / Util
+- [jquery-placeholder](https://github.com/mathiasbynens/jquery-placeholder)
+- [axios](https://github.com/axios/axios)
+
+## Angular 1.x
+- [ng-file-upload](https://github.com/danialfarid/ng-file-upload)
+- [ocLazyLoad](https://github.com/ocombe/ocLazyLoad)
+- [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
+- [ui-grid](https://github.com/angular-ui/ui-grid)
+
+## Angular
+## Vue
+- [vue-lazyload](https://github.com/hilongjw/vue-lazyload)
+- [vue-moment](https://github.com/brockpetrie/vue-moment)
+
+## Java Library
+- [jsonrpc4j](https://github.com/briandilley/jsonrpc4j)
+
+## Maven Plugin
+- [frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)
+- [yeoman-maven-plugin](https://github.com/trecloux/yeoman-maven-plugin)
+
+## Framework
+- [blur-admin](https://github.com/akveo/blur-admin)
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+- [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
+
+
+
+## Style Guide
+- [angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide)
+- [angular-styleguide](https://github.com/johnpapa/angular-styleguide)
+
+## Other Collections / Tutorial
+- [awesome-vue](https://github.com/vuejs/awesome-vue)
+- [awesome-frontend](https://github.com/JingwenTian/awesome-frontend)
+- [front-end-plugins](https://github.com/iamjoel/front-end-plugins)
+- [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)
+- [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)
