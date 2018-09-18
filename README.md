@@ -27,15 +27,19 @@
 - [jquery.jsonrpcclient.js](https://github.com/Textalk/jquery.jsonrpcclient.js)
 - [Jcrop](https://github.com/tapmodo/Jcrop)
 - [jstree](https://github.com/vakata/jstree)
+- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table)
 
 
 ## Css Lib / Shim / Util
 - [background-size-polyfill](https://github.com/louisremi/background-size-polyfill)
 - [nec](https://github.com/NetEase/nec)
+- [normalize.css](https://github.com/necolas/normalize.css)
 
 ## JavaScript Lib / Shim / Util
 - [jquery-placeholder](https://github.com/mathiasbynens/jquery-placeholder)
 - [axios](https://github.com/axios/axios)
+- [zip.js](https://github.com/gildas-lormeau/zip.js)
+- [moment](https://github.com/moment/moment)
 
 ## Angular 1.x
 - [ng-file-upload](https://github.com/danialfarid/ng-file-upload)
@@ -72,3 +76,5 @@
 - [front-end-plugins](https://github.com/iamjoel/front-end-plugins)
 - [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)
 - [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)
+- [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden)
+- [jstutorial](https://github.com/ruanyf/jstutorial)
