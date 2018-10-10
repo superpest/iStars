@@ -81,4 +81,4 @@
 - [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden)
 - [jstutorial](https://github.com/ruanyf/jstutorial)
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
--[free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
