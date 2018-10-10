@@ -28,6 +28,8 @@
 - [Jcrop](https://github.com/tapmodo/Jcrop)
 - [jstree](https://github.com/vakata/jstree)
 - [bootstrap-table](https://github.com/wenzhixin/bootstrap-table)
+- [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode)
+- [spritespin](https://github.com/giniedp/spritespin)
 
 
 ## Css Lib / Shim / Util
@@ -78,3 +80,5 @@
 - [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)
 - [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden)
 - [jstutorial](https://github.com/ruanyf/jstutorial)
+- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
+-[free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
