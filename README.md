@@ -36,12 +36,15 @@
 - [background-size-polyfill](https://github.com/louisremi/background-size-polyfill)
 - [nec](https://github.com/NetEase/nec)
 - [normalize.css](https://github.com/necolas/normalize.css)
+- [zxx.lib.css](https://github.com/zhangxinxu/zxx.lib.css)
 
 ## JavaScript Lib / Shim / Util
 - [jquery-placeholder](https://github.com/mathiasbynens/jquery-placeholder)
 - [axios](https://github.com/axios/axios)
 - [zip.js](https://github.com/gildas-lormeau/zip.js)
 - [moment](https://github.com/moment/moment)
+- [fastclick](https://github.com/ftlabs/fastclick)
+- [jQuery-slimScroll](https://github.com/rochal/jQuery-slimScroll)
 
 ## Angular 1.x
 - [ng-file-upload](https://github.com/danialfarid/ng-file-upload)
