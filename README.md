@@ -30,6 +30,7 @@
 - [bootstrap-table](https://github.com/wenzhixin/bootstrap-table)
 - [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode)
 - [spritespin](https://github.com/giniedp/spritespin)
+- [uploader](https://github.com/danielm/uploader)
 
 
 ## Css Lib / Shim / Util
