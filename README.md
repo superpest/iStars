@@ -31,7 +31,8 @@
 - [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode)
 - [spritespin](https://github.com/giniedp/spritespin)
 - [uploader](https://github.com/danielm/uploader)
-
+- [bootbox](https://github.com/makeusabrew/bootbox)
+- [textillate](https://github.com/jschr/textillate)
 
 ## Css Lib / Shim / Util
 - [background-size-polyfill](https://github.com/louisremi/background-size-polyfill)
@@ -60,6 +61,10 @@
 
 ## Java Library
 - [jsonrpc4j](https://github.com/briandilley/jsonrpc4j)
+- [kaptcha](https://github.com/penggle/kaptcha)
+- [thumbnailator](https://github.com/coobird/thumbnailator)
+- [jsoup](https://github.com/jhy/jsoup)
+- [jedis](https://github.com/xetorthio/jedis)
 
 ## Maven Plugin
 - [frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)
