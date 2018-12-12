@@ -80,7 +80,7 @@
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
 
 ## c/c++
-- (openscad)[https://github.com/openscad/openscad]
+- [openscad](https://github.com/openscad/openscad)
 - [CuraEngine](https://github.com/Ultimaker/CuraEngine)
 
 
