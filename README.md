@@ -33,6 +33,10 @@
 - [uploader](https://github.com/danielm/uploader)
 - [bootbox](https://github.com/makeusabrew/bootbox)
 - [textillate](https://github.com/jschr/textillate)
+- [swiper](https://github.com/nolimits4web/swiper)
+- [JRoll](https://github.com/chjtx/JRoll)
+- [tween.js](https://github.com/tweenjs/tween.js)
+- [jQuery-slimScroll](https://github.com/rochal/jQuery-slimScroll)
 
 ## Css Lib / Shim / Util
 - [background-size-polyfill](https://github.com/louisremi/background-size-polyfill)
@@ -46,7 +50,7 @@
 - [zip.js](https://github.com/gildas-lormeau/zip.js)
 - [moment](https://github.com/moment/moment)
 - [fastclick](https://github.com/ftlabs/fastclick)
-- [jQuery-slimScroll](https://github.com/rochal/jQuery-slimScroll)
+- [requirejs](https://github.com/requirejs/requirejs)
 
 ## Angular 1.x
 - [ng-file-upload](https://github.com/danialfarid/ng-file-upload)
@@ -75,6 +79,9 @@
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
 
+## c/c++
+- (openscad)[https://github.com/openscad/openscad]
+- [CuraEngine](https://github.com/Ultimaker/CuraEngine)
 
 
 ## Style Guide
