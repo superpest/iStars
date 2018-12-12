@@ -44,13 +44,14 @@
 - [normalize.css](https://github.com/necolas/normalize.css)
 - [zxx.lib.css](https://github.com/zhangxinxu/zxx.lib.css)
 
-## JavaScript Lib / Shim / Util
+## JavaScript Lib / Shim / Util / node
 - [jquery-placeholder](https://github.com/mathiasbynens/jquery-placeholder)
 - [axios](https://github.com/axios/axios)
 - [zip.js](https://github.com/gildas-lormeau/zip.js)
 - [moment](https://github.com/moment/moment)
 - [fastclick](https://github.com/ftlabs/fastclick)
 - [requirejs](https://github.com/requirejs/requirejs)
+- [weinre](https://github.com/apache/cordova-weinre)
 
 ## Angular 1.x
 - [ng-file-upload](https://github.com/danialfarid/ng-file-upload)
@@ -79,7 +80,7 @@
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
 
-## c/c++
+## c / c++
 - [openscad](https://github.com/openscad/openscad)
 - [CuraEngine](https://github.com/Ultimaker/CuraEngine)
 
