@@ -37,6 +37,7 @@
 - [JRoll](https://github.com/chjtx/JRoll)
 - [tween.js](https://github.com/tweenjs/tween.js)
 - [jQuery-slimScroll](https://github.com/rochal/jQuery-slimScroll)
+- [jquery.scrollTo](https://github.com/flesler/jquery.scrollTo)
 
 ## Css Lib / Shim / Util
 - [background-size-polyfill](https://github.com/louisremi/background-size-polyfill)
