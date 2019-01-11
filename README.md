@@ -38,6 +38,7 @@
 - [tween.js](https://github.com/tweenjs/tween.js)
 - [jQuery-slimScroll](https://github.com/rochal/jQuery-slimScroll)
 - [jquery.scrollTo](https://github.com/flesler/jquery.scrollTo)
+- [jquery-mobile](https://github.com/jquery/jquery-mobile)
 
 ## Css Lib / Shim / Util
 - [background-size-polyfill](https://github.com/louisremi/background-size-polyfill)
@@ -53,6 +54,9 @@
 - [fastclick](https://github.com/ftlabs/fastclick)
 - [requirejs](https://github.com/requirejs/requirejs)
 - [weinre](https://github.com/apache/cordova-weinre)
+- [video.js](https://github.com/videojs/video.js)
+- [MathJax](https://github.com/mathjax/MathJax)
+- [editor.md](https://github.com/pandao/editor.md)
 
 ## Angular 1.x
 - [ng-file-upload](https://github.com/danialfarid/ng-file-upload)
@@ -71,6 +75,7 @@
 - [thumbnailator](https://github.com/coobird/thumbnailator)
 - [jsoup](https://github.com/jhy/jsoup)
 - [jedis](https://github.com/xetorthio/jedis)
+- [jackson-core](https://github.com/FasterXML/jackson-core)
 
 ## Maven Plugin
 - [frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)
@@ -100,3 +105,4 @@
 - [jstutorial](https://github.com/ruanyf/jstutorial)
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+- [awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing)
