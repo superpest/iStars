@@ -76,6 +76,7 @@
 - [jsoup](https://github.com/jhy/jsoup)
 - [jedis](https://github.com/xetorthio/jedis)
 - [jackson-core](https://github.com/FasterXML/jackson-core)
+- [Memcached-Java-Client](https://github.com/gwhalin/Memcached-Java-Client)
 
 ## Maven Plugin
 - [frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)
