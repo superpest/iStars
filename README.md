@@ -77,6 +77,7 @@
 - [jedis](https://github.com/xetorthio/jedis)
 - [jackson-core](https://github.com/FasterXML/jackson-core)
 - [Memcached-Java-Client](https://github.com/gwhalin/Memcached-Java-Client)
+- [s3helper](https://github.com/vcoder4c/s3helper)
 
 ## Maven Plugin
 - [frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)
