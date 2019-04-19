@@ -57,6 +57,7 @@
 - [video.js](https://github.com/videojs/video.js)
 - [MathJax](https://github.com/mathjax/MathJax)
 - [editor.md](https://github.com/pandao/editor.md)
+- [multi-download](https://github.com/sindresorhus/multi-download)
 
 ## Angular 1.x
 - [ng-file-upload](https://github.com/danialfarid/ng-file-upload)
