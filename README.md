@@ -1,4 +1,3 @@
-# collections
 
 ## jQuery Plugin
 
@@ -39,6 +38,7 @@
 - [jQuery-slimScroll](https://github.com/rochal/jQuery-slimScroll)
 - [jquery.scrollTo](https://github.com/flesler/jquery.scrollTo)
 - [jquery-mobile](https://github.com/jquery/jquery-mobile)
+- [jquery-mousewheel](https://github.com/jquery/jquery-mousewheel)
 
 ## Css Lib / Shim / Util
 - [background-size-polyfill](https://github.com/louisremi/background-size-polyfill)
@@ -58,6 +58,9 @@
 - [MathJax](https://github.com/mathjax/MathJax)
 - [editor.md](https://github.com/pandao/editor.md)
 - [multi-download](https://github.com/sindresorhus/multi-download)
+- [FileSaver.js](https://github.com/eligrey/FileSaver.js)
+- [sylvester](https://github.com/jcoglan/sylvester)
+- [fabric.js](https://github.com/fabricjs/fabric.js)
 
 ## Angular 1.x
 - [ng-file-upload](https://github.com/danialfarid/ng-file-upload)
@@ -79,6 +82,10 @@
 - [jackson-core](https://github.com/FasterXML/jackson-core)
 - [Memcached-Java-Client](https://github.com/gwhalin/Memcached-Java-Client)
 - [s3helper](https://github.com/vcoder4c/s3helper)
+- [guava](https://github.com/google/guava)
+- [poi](https://github.com/apache/poi)
+- [Mapper](https://github.com/abel533/Mapper)
+- [flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer)
 
 ## Maven Plugin
 - [frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)
@@ -112,10 +119,7 @@
 
 
 
-程序员电台
-
+### 电台
 我们程序员
-
 代码时间
-
 teahour
