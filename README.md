@@ -61,6 +61,7 @@
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js)
 - [sylvester](https://github.com/jcoglan/sylvester)
 - [fabric.js](https://github.com/fabricjs/fabric.js)
+- [jsencrypt](https://github.com/travist/jsencrypt)
 
 ## Angular 1.x
 - [ng-file-upload](https://github.com/danialfarid/ng-file-upload)
@@ -116,6 +117,7 @@
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 - [awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing)
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 
 
 
