@@ -87,6 +87,7 @@
 - [poi](https://github.com/apache/poi)
 - [Mapper](https://github.com/abel533/Mapper)
 - [flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer)
+- [zt-zip](https://github.com/srikanth-lingala/zip4j)
 
 ## Maven Plugin
 - [frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)
