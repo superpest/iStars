@@ -59,9 +59,18 @@
 - [editor.md](https://github.com/pandao/editor.md)
 - [multi-download](https://github.com/sindresorhus/multi-download)
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js)
-- [sylvester](https://github.com/jcoglan/sylvester)
-- [fabric.js](https://github.com/fabricjs/fabric.js)
 - [jsencrypt](https://github.com/travist/jsencrypt)
+- [jsPDF](https://github.com/MrRio/jsPDF)
+- [flow.js](https://github.com/flowjs/flow.js) 
+- [pdf.js](https://github.com/mozilla/pdf.js) 
+
+
+## Canvas(2d & 3d)
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+
+## Math
+- [sylvester](https://github.com/jcoglan/sylvester)
+
 
 ## Angular 1.x
 - [ng-file-upload](https://github.com/danialfarid/ng-file-upload)
