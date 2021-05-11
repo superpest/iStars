@@ -67,6 +67,8 @@
 
 ## Canvas(2d & 3d)
 - [fabric.js](https://github.com/fabricjs/fabric.js)
+- [clipper-js](https://github.com/Doodle3D/clipper-js)
+
 
 ## Math
 - [sylvester](https://github.com/jcoglan/sylvester)
